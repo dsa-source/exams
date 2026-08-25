@@ -1,9 +1,9 @@
-# Data Structure and Algorithms Q&A Source
+# Data Structures and Algorithms Q&A Source
 
 A simple Question and Answer source for Data Structure and Algorithms, built with **Vue 3 (Options API)**, **jQuery AJAX**, and **Tailwind CSS**.
 
 ## About
-This project provides a searchable collection of Data Structure and Algorithms multiple-choice questions with answers.  
+This project provides a searchable collection of Data Structures and Algorithms multiple-choice questions with answers.  
 It’s intended as a lightweight reference and study aid, not a full quiz app.
 
 Features:
