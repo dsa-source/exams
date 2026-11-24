@@ -292,6 +292,958 @@
                         "is_correct": false
                     }
                 ]
+            },
+            {
+                "question_text": "How many leaves are there in a full binary tree?\n\n",
+                "choices": [
+                    {
+                        "text": "CONTAINS N-1\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CONTAINS 3N-1\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CONTAINS 2N-1\n\n",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "_________ is a linear data structure which follows a particular order in which the operations are performed. \n\n",
+                "choices": [
+                    {
+                        "text": "STACK",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "FUNCTION",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SEARCH",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "QuickSort is an___________ algorithm because we do swapping of elements according to pivot's position (without considering their original positions).\n\n",
+                "choices": [
+                    {
+                        "text": "NULL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "STABLE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "UNSTABLE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "_________sorting means sorting without any extra space requirement.\n\n",
+                "choices": [
+                    {
+                        "text": "PLACE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "IN PLACE\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "OUTPLACE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A ____________is an example of a linear data structure, or more abstractly a sequential collection. \n\n",
+                "choices": [
+                    {
+                        "text": "QUEUE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "SORT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ALGORITHM\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "__________ is a common operation in many applications, and efficient algorithms to perform it have been developed.\n\n",
+                "choices": [
+                    {
+                        "text": "STACK",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SORTING",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "FUNCTION\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "_____________ have less memory consumption as compared to linear queue because while doing insertion after deletion operation it allocate an extra space the first remaining vacant but in circular queue the first is used as it comes immediate after the last.\n\n",
+                "choices": [
+                    {
+                        "text": "CIRCULAR QUEUE\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "BUBBLE QUEUE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NULL QUEUE\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A binary tree is considered full if every node has exactly 0 or 2 children. A binary tree is considered incomplete if every level is full except the last, and all nodes are pushed as far left as possible. \n\n",
+                "choices": [
+                    {
+                        "text": "YES",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NO",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NULL",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The _________ is slightly faster than the heap sort for larger sets, but it requires twice the memory of the heap sort because of the second array.\n\n",
+                "choices": [
+                    {
+                        "text": "BUBBLESORT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MERGE SORT\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "QUICKSORT",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " Bubble Sort is based on the idea of repeatedly comparing pairs of ________ELEMENTS swapping their positions if they exist in the wrong order.\n\n",
+                "choices": [
+                    {
+                        "text": "FORMAL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "CONNECTED\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ADJACENT",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A ___________ is a tree with some extra leaf nodes at depth n+1, all toward the left.\n\n",
+                "choices": [
+                    {
+                        "text": "FULL BINARY TREE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "COMPLETE BINARY TREE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PERFECT BINARY TREE\n\n",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "In a _____ skewed, most of the nodes have the leftchild without corresponding right child.\n\n",
+                "choices": [
+                    {
+                        "text": "LEFT",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "RIGHT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ZERO",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A General tree can't be empty but a Binary tree can be empty.\n\n",
+                "choices": [
+                    {
+                        "text": "NONE OF THE ABOVE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "AVL tree is also a BST but it can rebalance itself.\n\n",
+                "choices": [
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NONE OF THE ABOVE\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which is the slowest sorting algorithm?\n\n",
+                "choices": [
+                    {
+                        "text": "QUICKSORT\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "HEAP SORT\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "SLOWSORT",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A Binary Tree is labeled if every node is assigned a label and a Binary Tree is __________ if nodes are not assigned any label.\n\n",
+                "choices": [
+                    {
+                        "text": "UNLABELED",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "STATIONARY",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "LABELED",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "In _________sorting data is stored outside memory (like on disk) and only loaded into memory in small chunks.\n\n",
+                "choices": [
+                    {
+                        "text": "EXTERNAL",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "INTERNAL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ZERO",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A binary tree is either empty or consists of a node called the root together with two binary trees called the left subtree and the right subtree.\n\n",
+                "choices": [
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "BOTH A AND B\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This transformation consists of replacing every null subtree of the original tree with “special nodes.” The nodes from the original tree are then internal nodes , while the “special nodes” are external nodes.\n\n",
+                "choices": [
+                    {
+                        "text": "FULL BINARY TREE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "STABLE BINARY TREE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "EXTENDED BINARY TREE\n\n",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "The ________ sort is a combination of searching and sorting.\n\n",
+                "choices": [
+                    {
+                        "text": "HANDLE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "BUBBLE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SELECTION ",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "DEQUEUE IS ALSO CALLED ?\n\n",
+                "choices": [
+                    {
+                        "text": "DOUBLY ENDED QUEUE\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "CIRCULAR QUEUE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DEQUENT QUEUE\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " Means to insert an item into the back of the queue.\n\n",
+                "choices": [
+                    {
+                        "text": "QUEUE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ENQUEUE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "DEQUEUE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " Merge sort is more efficient and works faster than quick sort in case of larger array size or datasets.\n\n",
+                "choices": [
+                    {
+                        "text": "NO,BECAUSE MERGE SORT IS SLOWER THAN QUICKSORT\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A ___________ is a specific tree based data structure in which all the nodes of tree are in a specific order.\n\n",
+                "choices": [
+                    {
+                        "text": "QUICKSORT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "HEAP",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "RADIX",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The following are synonym of QUEUE.EXCEPT ONE.\n\n",
+                "choices": [
+                    {
+                        "text": "range",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "string",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "massive",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A ___________ queue is typically implemented using Heap data structure.\n\n",
+                "choices": [
+                    {
+                        "text": "NULL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DIRECT",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PRIORITY",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A simple graph may be either ____________.\n\n",
+                "choices": [
+                    {
+                        "text": "BOTH A AND B\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "CONNECTED",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DISCONNECTED",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Comparing BFS and DFS, the big advantage of DFS is that it has much _____memory requirements than BFS, because it's not necessary to store all of the child pointers at each level.\n\n",
+                "choices": [
+                    {
+                        "text": "LOWER",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "HIGHER",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NEUTRAL",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " Hashing is also used in encryption.\n\n",
+                "choices": [
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NO, IT IS USE FOR TAPPING\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A hash______ is a data structure that is used to store keys/value pairs.\n\n",
+                "choices": [
+                    {
+                        "text": "SET",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TABLE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Kruskal's Algorithm : performs better in typical situations (sparse graphs) because it uses simpler data structures. Prim's Algorithm : is significantly ___the limit when you've got a really dense graph with many more edges than vertices.\n\n",
+                "choices": [
+                    {
+                        "text": "AT REST\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SLOWER",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FASTER",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": " The eight most commonly used graphs are linear, power, quadratic, polynomial, rational, ______, logarithmic, and sinusoidal.\n\n",
+                "choices": [
+                    {
+                        "text": "EXPONENTIAL",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NULL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DYNAMIC",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A hash function is a function which when given a key, generates an address in the table.\n\n",
+                "choices": [
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NULL",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A graph is a____structure that has two types of elements, vertices and edges.\n\n",
+                "choices": [
+                    {
+                        "text": "ALGORITHM",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PATH",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DATA",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "_____Algorithm : is significantly faster in the limit when you've got a really dense graph with many more edges than vertices.\n\n",
+                "choices": [
+                    {
+                        "text": "PRIM'S\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "KRUSKAL'S",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FLLOYD",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A hash table is an array containing all of the keys to search on.\n\n",
+                "choices": [
+                    {
+                        "text": "NULL\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "NONE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "In ___________ we specify an object that is used as a key, and the value we want to associate to that key.\n\n",
+                "choices": [
+                    {
+                        "text": "HASTABLE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "HASHING",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "HASH",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " A directed general-graph is a general-graph in which the set E is the set of ordered pairs of vertices.\n\n",
+                "choices": [
+                    {
+                        "text": "NONE OF THE ABOVE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "An MD5 hash function encodes a string of information and encodes it into a___bit fingerprint.\n\n",
+                "choices": [
+                    {
+                        "text": "64",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "256",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "128",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A simple graph, also called a ______graph.\n\n",
+                "choices": [
+                    {
+                        "text": "SHORTEST",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "STRICT",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "DIJKSTRA",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Path Matrix in graph theory is a matrix sized ___ , where n is the number of vertices of the graph.\n\n",
+                "choices": [
+                    {
+                        "text": "n*2\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "n*n\n\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "n*1\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A graph is a picture designed to express words, particularly the connection between two or more quantities.\n\n",
+                "choices": [
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NO, IT MUST BE ONE QUANTITY ONLY\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Tree is a hierarchical data structure which stores the information naturally in the form of hierarchy style.\n\n",
+                "choices": [
+                    {
+                        "text": "NONE OF THE ABOVE\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Breadth-first-search is the algorithm that will find shortest paths in an _____ graph.\n\n",
+                "choices": [
+                    {
+                        "text": "FULL",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "WEIGHTED",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "UNWEIGHTED",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A hash function is a function which when given a key, generates an address in the table. \n\n",
+                "choices": [
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "BOTH A AND B\n\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Dijkstra's algorithm is Dijkstra's algorithm, it is neither algorithm because BFS and DFS themselves are not Dijkstra's algorithm.\n\n",
+                "choices": [
+                    {
+                        "text": "FALSE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "BOTH A AND B\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "TRUE",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "An ______hash function encodes a string of information and encodes it into a 128-bit fingerprint.\n\n",
+                "choices": [
+                    {
+                        "text": "MD5",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "MD1",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "MD3",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "The Three methods in HASHING in open addressing are linear probing, quadratic probing, and _____hashing.\n\n",
+                "choices": [
+                    {
+                        "text": "MULTI",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "DOUBLE",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "SINGLE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A complete digraph is a directed graph in which every pair of distinct vertices is connected by a ___of unique edges (one in each direction).\n\n",
+                "choices": [
+                    {
+                        "text": "MULTIPLE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "SINGLE",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PAIR",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Graphs are a powerful and versatile data structure that easily allow you to represent real life relationships between different types of data (nodes).\n\n",
+                "choices": [
+                    {
+                        "text": "SELDOM",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "_______ Algorithm : performs better in typical situations (sparse graphs) because it uses simpler data structures. \n\n",
+                "choices": [
+                    {
+                        "text": "FLLOYD",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "PRIM'S",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "KRUSKAL'S\n\n",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Shortest path algorithms are a family of algorithms designed to solve the shortest path problem.\n\n",
+                "choices": [
+                    {
+                        "text": "USUALLY ",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Graph Algorithms or Graph ______ are analytic tools used to determine strength and direction of relationships between objects in a graph.\n\n",
+                "choices": [
+                    {
+                        "text": "HASHING",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "ANALYTICS",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "GRAPH",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "______ are a common method to visually illustrate relationships in the data.\n\n",
+                "choices": [
+                    {
+                        "text": "HASH",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "GRAPHS",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "HASHABLE",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": " The hash table should be an array with length about _ times the maximum number of keys that will actually be in the table, and. Size of hash table array should be a prime number.\n\n",
+                "choices": [
+                    {
+                        "text": "1.56",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "1.3",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Eulerian refers to the Swiss mathematician _____Euler, who invented graph theory in the 18th century.\n\n",
+                "choices": [
+                    {
+                        "text": "DAMSCUS",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "LEONHARD",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "FLLOYD",
+                        "is_correct": false
+                    }
+                ]
             }
         ]
     }
