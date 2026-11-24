@@ -798,7 +798,7 @@
                         "is_correct": true
                     },
                     {
-                        "text": "",
+                        "text": "PATH",
                         "is_correct": false
                     }
                 ]
@@ -1241,6 +1241,693 @@
                     },
                     {
                         "text": "FLLOYD",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Dynamic programming is a method of solving complex problems by breaking them down into simpler steps.\n\n",
+                "choices": [
+                    {
+                        "text": "NO",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "BOTH A AND B\n\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "YES",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "A _______________ is a data structure that organizes data similar to a line in the supermarket, where the first one in line is the first one out.\n",
+                "choices": [
+                    {
+                        "text": "Queue linked list\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Stacks linked list\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Neither of these\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Both of these\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which data structure is used in breadth first search of a graph to hold nodes?\n",
+                "choices": [
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Array",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following data structure can't store the non-homogeneous data elements?\n",
+                "choices": [
+                    {
+                        "text": "Records",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Pointers",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Arrays",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Stacks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following data structure is non-linear type?\n",
+                "choices": [
+                    {
+                        "text": "Strings",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Lists",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stacks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following data structures is linear type?\n",
+                "choices": [
+                    {
+                        "text": "Trees",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Binary tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following is non-linear data structure?\n",
+                "choices": [
+                    {
+                        "text": "Trees",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Strings",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stacks",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "List",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following is not the part of ADT description?\n",
+                "choices": [
+                    {
+                        "text": "Operations\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Both of these\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of these\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Data",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following is true about the characteristics of abstract data types?i. It exports a type.ii. It exports a set of operations.\n",
+                "choices": [
+                    {
+                        "text": "False, True\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "True, False\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "False, False\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "True, True\n",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Which of the following is/are the levels of implementation of data structure?\n",
+                "choices": [
+                    {
+                        "text": "All of these\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Application level\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implementation level\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Abstract level\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "____________________ is not the component of data structure.\n",
+                "choices": [
+                    {
+                        "text": "Algorithms",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "None of these\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Operations",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Storage structures\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "____________________ level is where the model becomes compatible executable code.\n",
+                "choices": [
+                    {
+                        "text": "All of these\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Implementation level\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Application level\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Abstract level\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "A binary search tree whose left subtree and right subtree differ in height by at most 1 unit is called ____________________.\n",
+                "choices": [
+                    {
+                        "text": "Red-black tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "AVL tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "None of these\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Lemma tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Herder node is used as sentinel in __________________.\n",
+                "choices": [
+                    {
+                        "text": "Queues",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Graphs",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stacks",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Identify the data structure which allows deletions at both ends of the list but insertion at only one end.\n",
+                "choices": [
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Input restricted dequeue\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Priority queues\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Output restricted dequeue\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A program keeping track of where canned goods are located on a shelf.\n",
+                "choices": [
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications. A bank simulation of its teller operation to see how waiting times would be affected by adding another teller.\n",
+                "choices": [
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A program to maintain the routes in an airline.\n",
+                "choices": [
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A program to keep track of family relationships\n",
+                "choices": [
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A program to keep track of the soccer teams in a city tournament\n",
+                "choices": [
+                    {
+                        "text": "Tree",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A program to keep track of patients as they check into a medical clinic, assigning patients to doctors on a first-come, first-served basis.\n",
+                "choices": [
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A dictionary of words used by a spelling checker to be built and maintained.\n",
+                "choices": [
+                    {
+                        "text": "Tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.A word processor to have a PF key that causes the preceding command to be redisplayed. Every time the PF key is pressed, the program is to show the command that preceded the one currently displayed\n",
+                "choices": [
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications.An electronic address book ordered by name\n",
+                "choices": [
+                    {
+                        "text": "Stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Queue\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Indicate which structure would be a more suitable choice for each of the following applications. A program to receive data that is to be saved and processed in the reverse order.\n",
+                "choices": [
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Stack",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Binary search tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Inserting an item into the stack when stack is not full is called ____________ while operation and deletion of item from the stack, when stack is not empty is called ________________ operation.\n",
+                "choices": [
+                    {
+                        "text": "delete, insert\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "push, pop\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "insert, delete\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "pop, push\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "It is a pile in which items are added at one end and removed from the other.\n",
+                "choices": [
+                    {
+                        "text": "stack",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "none of these\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "list",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "queue",
+                        "is_correct": true
+                    }
+                ]
+            },
+            {
+                "question_text": "Stack is also called the ________________.\n",
+                "choices": [
+                    {
+                        "text": "Last in, last out\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Last in, first out\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "First in, first out\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "First in, last out\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "This is very useful in situation when data have to be stored and then retrieved in reverse order.\n",
+                "choices": [
+                    {
+                        "text": "stack",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "queue",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "link list\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "list",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which data structure allows deleting data elements from and inserting at rear?\n",
+                "choices": [
+                    {
+                        "text": "stacks",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "queues",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "dequeues\n",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "binary search tree\n",
+                        "is_correct": false
+                    }
+                ]
+            },
+            {
+                "question_text": "Which data structure is suitable to represent the hierarchal relationship between elements?\n",
+                "choices": [
+                    {
+                        "text": "Priority",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Graph",
+                        "is_correct": false
+                    },
+                    {
+                        "text": "Tree\n",
+                        "is_correct": true
+                    },
+                    {
+                        "text": "Dequeue",
                         "is_correct": false
                     }
                 ]
